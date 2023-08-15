@@ -1,0 +1,22 @@
+*{
+    background-color: yellowgreen;
+}
+.do{
+    border-radius: 20px;
+    border: 4px solid black;
+    background-color: blue;
+    display: grid;
+    place-items: center;
+    margin-top:100px;
+    margin-bottom: 30px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+.action{
+    font-size: 40px;
+}
